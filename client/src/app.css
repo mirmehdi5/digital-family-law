@@ -1,0 +1,261 @@
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px; /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: "liga";
+}
+.table-header-cont-record {
+  background-color: pink;
+}
+
+.table-header-order-endorse {
+  background-color: yellow;
+}
+
+.table-header-pending-docs {
+  background-color: grey;
+}
+
+.table-header-other-docs {
+  background-color: blue;
+}
+
+.table-header-rejected-docs {
+  background-color: grey;
+}
+
+.table-header {
+  background-color: #8080801c;
+}
+
+.border-solid {
+  border: 1px solid grey;
+}
+
+.padding-top-three {
+  padding-top: 3rem;
+}
+
+.padding-top-two {
+  padding-top: 2rem;
+}
+
+.padding-top-one {
+  padding-top: 1rem !important;
+}
+
+.no-side-margins {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+.blue-color {
+  background-color: #0b99c7 !important;
+}
+.anchor-color {
+  color: #0079ffe8 !important;
+  text-decoration: underline;
+}
+
+.padding-left-thirteen {
+  padding-left: 13rem;
+}
+
+.padding-left-three {
+  padding-left: 3rem;
+}
+
+.padding-full-one {
+  padding: 1rem;
+}
+.bottom-padding-two {
+  padding-bottom: 2rem;
+}
+
+.hide-borders {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid grey;
+}
+
+.fml-img {
+  width: 17%;
+  margin-left: -33px;
+}
+
+.progress-img {
+  width: 99%;
+  max-height: 200px;
+}
+
+.solid-border {
+  border: 1px solid grey;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 40rem;
+  padding: "10px";
+  margin-right: 2rem;
+}
+
+/* On mouse-over, add a deeper shadow */
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+}
+
+/* Add some padding inside the card container */
+
+.card-container {
+  color: black;
+  padding: 2px 16px;
+}
+
+.btn-as-tabs {
+  background: none;
+  border-bottom: none;
+}
+
+.vl {
+  border-left: 1px solid grey;
+  position: absolute;
+  left: 48%;
+  margin-left: -3px;
+  height: 10rem;
+}
+
+.search-bar {
+  width: 100%;
+  line-height: 2.5rem;
+}
+
+.left-padding-two {
+  padding-left: 2rem !important;
+}
+
+tr {
+  border: 1px solid grey;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.preview {
+  border: none;
+  height: 43rem !important;
+}
+
+.accordian-margin-adjust {
+  margin-left: 10px !important;
+  margin-top: -24px;
+}
+
+.accordion__button {
+  background-color: white !important;
+}
+.beige-background {
+  background-color: beige;
+}
+.six-heigth {
+  height: 6rem;
+}
+
+.success-dark-green {
+  background-color: #009e0f;
+}
+
+.success-light-green {
+  background-color: #b6d7a8;
+}
+.success-message-padding {
+  padding-top: 2rem !important;
+}
+.success-image {
+  width: 2rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+}
+.search-tony {
+  border: solid 1px grey;
+  border-top: none;
+  padding: 1rem;
+}
+.one-point-five-padding {
+  padding: 1.5rem;
+}
+
+.success-image-clerk {
+  width: 2rem;
+  margin-left: 6rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.grey-bg-color {
+  background-color: #8080805e;
+}
+
+.zero-margin-left {
+  margin-left: 0rem !important;
+}
+
+.right-border {
+  border-right: 1px solid grey;
+}
+
+.half-padding {
+  padding: 0.5rem;
+}
+
+.dark-font {
+  font-weight: 700;
+}
+.width-two {
+  width: 2rem;
+}
+.logo-width {
+  width: 8rem !important;
+}
+.half-top-margin {
+  margin-top: 0.5rem !important;
+}
+.one-margin-top {
+  margin-top: 1rem !important;
+}
+
+.home-card {
+  width: 21rem;
+}
+
+.home-card-button {
+  margin-left: 4rem;
+  margin-bottom: 2rem;
+}
+
+.top-margin-fifteen {
+  margin-top: 15rem !important;
+}
