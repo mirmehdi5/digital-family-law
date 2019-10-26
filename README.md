@@ -2,7 +2,7 @@
 
 This prototype was developed for the Ministry of Attorney General in a 2 week google sprint which involved both design and developement of the prototype.
 
-**Tech Stack: React, Express, Node, 3rd Party API for mailing services, MongoDB
+*Tech Stack: React, Express, Node, 3rd Party API for mailing services, MongoDB*
 
 
 Use the below credentials to login-
